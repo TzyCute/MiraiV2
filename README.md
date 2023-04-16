@@ -1,5 +1,4 @@
-# Tuấn Vỹ
-# Miraibot
+
 # Các bước khởi chạy:
 #===/// LƯU Ý: CHẠY Ở SHELL GIÚP ///===#
 # ==> B1: npm i
